@@ -1,0 +1,40 @@
+#données{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px;
+    
+    
+
+}
+.photo{
+    align-self: flex-end;
+}
+.photodimention{
+    width: 150px;
+    border-radius: 20px;
+}
+p{
+    word-wrap:break-word;
+    height: auto;
+    width: 400px;
+}
+
+body{
+    background: url("greyzz.png");
+}
+.nom{
+    align-self: center;
+    margin-left: 600px;
+}
+.imagenoir{
+    background: url("lodyas.png");
+    height: 500px;
+    width: 10%;
+    border-radius: 20px;
+}
